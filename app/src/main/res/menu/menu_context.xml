@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view"
+    >
+
+    <item android:title="Update"
+        android:id="@+id/menuUpdate"
+        android:icon="@drawable/baseline_edit_note_24"/>
+
+    <item android:title="Remove"
+        android:id="@+id/menuRemove"
+        android:icon="@drawable/baseline_delete_forever_24"/>
+</menu>

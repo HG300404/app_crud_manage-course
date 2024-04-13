@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "292476884115",
+    "firebase_url": "https://gk-managecourse-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gk-managecourse",
+    "storage_bucket": "gk-managecourse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292476884115:android:19e547f1ad50f2edde6966",
+        "android_client_info": {
+          "package_name": "com.example.a22iteb036_lemaihuong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRSaMdZkX_jPYGJZqH8l_ZY8u9DN351NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

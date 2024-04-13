@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group>
+        <item
+            android:icon="@drawable/icon_bai"
+            android:id="@+id/nav_bai1"
+            android:title="BÀI 1"
+
+            >
+
+        </item>
+        <item
+            android:icon="@drawable/icon_bai"
+            android:id="@+id/nav_bai2"
+            android:title="BÀI 2"
+            >
+        </item>
+        <item
+            android:id="@+id/nav_bai3"
+            android:icon="@drawable/icon_bai"
+            android:title="BÀI 3"
+            >
+        </item>
+    </group>
+
+</menu>

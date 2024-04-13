@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginBottom="20dp"
+        android:text="CẬP NHẬT KHOÁ HỌC"
+        android:textColor="#5968BC"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/edtNameDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:textColor="#5968BC"
+        android:hint="NHẬP TÊN KHOÁ HỌC"/>
+
+    <EditText
+        android:id="@+id/edtAmountDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:textColor="#5968BC"
+        android:layout_marginTop="10dp"
+        android:hint="NHẬP SỐ TÍN CHỈ"
+        />
+
+    <EditText
+        android:id="@+id/edtSemesterDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:textColor="#5968BC"
+        android:layout_marginTop="10dp"
+        android:hint="NHẬP KHOÁ HỌC"/>
+
+    <Button
+        android:id="@+id/btnSaveDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="120dp"
+        android:textSize="20dp"
+        android:text="CẬP NHẬT" />
+</LinearLayout>
